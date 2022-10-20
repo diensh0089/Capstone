@@ -5,7 +5,6 @@ Sparkify is a fictional music streaming platform created by Udacity. For this pr
 
 mini, medium and large datasets(only on AWS public) are available. I have used medium scale data that I have processed with Spark on AWS EMR.
 
-Medium : https://medium.com/@elifsurmelif/sparkify-user-churn-prediction-eff0868c5554
 
 Getting Started
 Instructions below will help you setup your local machine to run the copy of this project. You can run the notebook in local mode on a local computer as well as on a cluster of a cloud provider such as AWS or IBM Cloud.
