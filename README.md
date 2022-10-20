@@ -25,8 +25,3 @@ pandas
 Dataset:
 
 mini_sparkify_event_data.json is the app data that you can play with.
-medium-sparkify-event-data.json.gz : this dataset is larger than github limits, it's gzipped.
-If you have an AWS account, a large dataset(12 GB) has been public on s3n://udacity-dsnd/sparkify/sparkify_event_data.json
-Running the notebooks
-First install all the packages stated above.
-
